@@ -64,3 +64,15 @@
       To avoid misuse, create a different access key for each program, name it appropriately, and renew these keys on a regular basis. Access keys can be used in both public and private contexts.
       My key(8cb07f0f81e94b8285d9a7240151de60)
 
+  ## Frontend:
+    
+     > GitHub https://github.com/a1abed1a/city-explorer  
+
+     > Live URL https://city-explorer-a1abed1a.netlify.app/
+    
+    
+    ## Backend:
+    
+    > GitHub https://github.com/a1abed1a/city-explorer-api  
+
+    > Live URL https://city-explorer-api-a1abed1a.herokuapp.com/

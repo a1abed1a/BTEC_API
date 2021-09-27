@@ -32,3 +32,7 @@ while the SDK is an integrated platform that includes a set of tools for creatin
 
 ---
 
+## Reviewer
+   - https://rapidapi.com/blog/api-vs-sdk/
+   - https://softjourn.com/insights/5-benefits-of-api-first-design
+   - https://blog.dreamfactory.com/types-of-apis-popular-rest-api-protocol/
